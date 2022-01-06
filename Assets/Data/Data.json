@@ -1,0 +1,23 @@
+{
+	"movementData": [
+		{
+			"pathPosition": [
+				{
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				{
+					"x": -5,
+					"y": -5,
+					"z": 10
+				}
+			],
+			"animationDelay" : 1.5,
+			"animationDuration" : 3.0,
+			"cubeLifetime" : 6.0,
+			"jumpPower" : 3.0,
+			"jumpCount" : 3
+		}
+	]
+}
